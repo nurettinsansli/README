@@ -63,4 +63,6 @@ const skills = {
 <br/>
 
 
-![Nurettin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurettinsansli&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide=issues)
+![Nurettin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurettinsansli&count_private=true&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbezmen&langs_count=10&theme=dark)
