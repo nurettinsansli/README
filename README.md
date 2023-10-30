@@ -37,12 +37,10 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-## I'm Nurettin Sansli 
+## I'm Nurettin 
 
 - A Full-Stack developer who likes to explore new technologies, problem-solving, build projects 👩‍💻
 - I have a keen interest in web development.💬
-- I often write [blogs](https://medium.com/@nurettinsanslii) to share my learnings with the developer community :writing_hand:.
-
 
 ## ⚡ Technologies:
 
