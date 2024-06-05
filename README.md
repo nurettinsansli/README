@@ -49,11 +49,11 @@ const skills = {
    Web: [HTML5, CSS3, Bootstrap, Javascript],
    Libraries: [React, Redux],
    Testing: [Jest, React Testing Library, Cypress, SuperTest],
-   Frameworks: [Gatsby, Express],
+   Frameworks: [Selenium, Playwright, Cypress],
    Version Control: [Git],
-   Databases: [MongoDB, MySQL],
+   Databases: [MongoDB, OracleSQL, PostgreSQL],
    Tech Stack: [MERN Stack]
-   Languages: [C++, Java, PHP, Python]
+   Languages: [ Java, Python]
    Others: [NodeJS, Typescript, Storybook, Salesforce Lightning],
 };
 ```
