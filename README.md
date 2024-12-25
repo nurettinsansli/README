@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 ## I'm Nurettin 
 
-- A Full-Stack developer who likes to explore new technologies, problem-solving, build projects 👩‍💻
-- I have a keen interest in web development.💬
+- A Test developer who likes to explore new technologies, problem-solving, build projects 👩‍💻
+- I have a keen interest in test development.💬
 
 ## ⚡ Technologies:
 
