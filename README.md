@@ -39,25 +39,8 @@ Here are some ideas to get you started:
 
 ## I'm Nurettin 
 
-- A Test developer who likes to explore new technologies, problem-solving, build projects 👩‍💻
+- As a developer who likes to explore new technologies, problem-solving, build projects 👩‍💻
 - I have a keen interest in test development.💬
-
-## ⚡ Technologies:
-
-```javascript
-const skills = {
-   Web: [HTML5, CSS3, Bootstrap, Javascript],
-   Libraries: [React, Redux],
-   Testing: [Jest, React Testing Library, Cypress, SuperTest],
-   Frameworks: [Selenium, Playwright, Cypress],
-   Version Control: [Git],
-   Databases: [MongoDB, OracleSQL, PostgreSQL],
-   Tech Stack: [MERN Stack]
-   Languages: [ Java, Python]
-   Others: [NodeJS, Typescript, Storybook, Salesforce Lightning],
-};
-```
-
 <br/>
 
 
